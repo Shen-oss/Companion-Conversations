@@ -40,17 +40,17 @@ python setup.py build_ext --inplace
 
 i.One Character
 
--Run Unity
+- Run Unity
 
--Run chatbotAPI.py
+- Run chatbotAPI.py
 
 ii.Two Character
 
--開啟窗邊兩位角色
+- Open the window with two characters.
 
--更改相機為Two Character位置
+- Change the camera to the Two Character position.
 
--將Panel的digserver切成two digserver
+- Split the Panel's DigServer into two DigServer instances.
 
 # Demo Video
 
