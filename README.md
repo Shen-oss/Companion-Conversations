@@ -12,6 +12,10 @@ Target Audience:
 
 We aim for users to express their emotions openly, providing them with an outlet for emotional release. This is not only applicable to individuals with mental health issues but also suitable for those who struggle with social interactions.
 
+# Warning
+
+This project is for research purposes only and commercial use is prohibited.
+
 # Pre-requisites
 1.Python >= 3.9
 
