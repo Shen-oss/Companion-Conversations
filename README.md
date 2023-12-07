@@ -40,17 +40,17 @@ python setup.py build_ext --inplace
 
 i.One Character
 
- 1.Run Unity
+-Run Unity
 
- 2.Run chatbotAPI.py
+-Run chatbotAPI.py
 
 ii.Two Character
 
- 1.開啟窗邊兩位角色
+-開啟窗邊兩位角色
 
- 2.更改相機為Two Character位置
+-更改相機為Two Character位置
 
- 3.將Panel的digserver切成two digserver
+-將Panel的digserver切成two digserver
 
 # Demo Video
 
