@@ -40,4 +40,4 @@ python setup.py build_ext --inplace
 
 # Demo Video
 
-[![Watch the video](resources/title.png)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Watch the video](resources/VideoClip.png)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
