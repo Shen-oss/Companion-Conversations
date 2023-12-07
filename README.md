@@ -1,5 +1,5 @@
 # Companion Conversations: Integrating GPT Model Text and Voice Simulation with Practical Applications in Virtual Characters
-
+![Screenshot 1](resources/title.png)
 Introduction:
 
 In this project, we introduce a character from a game, Paimon, along with its personality traits. Through character setup, the project goes beyond a typical GPT chatbot. We have also endowed it with visual and auditory features, making the interaction with it more engaging and lively.
@@ -37,3 +37,7 @@ python setup.py build_ext --inplace
 1.Run Unity
 
 2.Run chatbotAPI.py
+
+# Demo Video
+
+[![Watch the video](resources/title.png)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
