@@ -50,7 +50,7 @@ ii.Two Character
 
 - Change the camera to the Two Character position.
 
-- Split the Panel's DigServer into two DigServer instances.
+- Replace the Panel's DigServer with TwoDigServer.
 
 # Demo Video
 
