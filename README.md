@@ -1,12 +1,15 @@
 # Companion Conversations: Integrating GPT Model Text and Voice Simulation with Practical Applications in Virtual Characters
 
 Introduction:
+
 In this project, we introduce a character from a game, Paimon, along with its personality traits. Through character setup, the project goes beyond a typical GPT chatbot. We have also endowed it with visual and auditory features, making the interaction with it more engaging and lively.
 
 Motivation:
+
 The motivation comes from a past experience during high school. A friend, feeling lonely due to family problems, was reluctant to share their feelings with others, ultimately impacting their mental well-being.
 
 Target Audience:
+
 We aim for users to express their emotions openly, providing them with an outlet for emotional release. This is not only applicable to individuals with mental health issues but also suitable for those who struggle with social interactions.
 
 # Pre-requisites
