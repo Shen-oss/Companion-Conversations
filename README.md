@@ -52,6 +52,8 @@ ii.Two Character
 
 - Replace the Panel's DigServer with TwoDigServer.
 
+- Run Unity
+
 - Run botchat.py
 
 # Demo Video
