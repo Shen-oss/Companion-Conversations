@@ -8,7 +8,7 @@ import unicodedata
 udp_ip = "127.0.0.1"  # Unity运行在同一台计算机上时，可以使用本地回环地址
 udp_port = 34567  # 与Unity接收端使用相同的端口
 
-api_key = "<api key>"
+
 # 创建Socket对象
 server_socket1 = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_socket1.bind((udp_ip, 12345))
@@ -76,7 +76,7 @@ engine = ["gpt-4-vision-preview",
           ]
 
 # # OpenAI API Key
-api_key = "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"
+api_key = "<api key>"
 
 chatbot = Chatbot(api_key= api_key,
                   system_prompt= role_paimon,
